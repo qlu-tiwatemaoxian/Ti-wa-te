@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javasheji:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javasheji_jar</output-path>
+    <root id="archive" name="javasheji.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="javasheji" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/epWork/JDBC/jdbc/mssql-jdbc-12.6.2.jre8.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jdbc" />
+    </root>
+  </artifact>
+</component>
