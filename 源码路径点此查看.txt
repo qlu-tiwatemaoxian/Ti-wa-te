@@ -1,5 +1,5 @@
 源码路径位于epWork/src/student_system，以及各组员所负责代码说明
 login.java由朱海涛填写 学号：202303013028
 Student.java由高金福填写 学号：202303013010
-Teacher.java由杨睿达填写 学号：2023030130
+Teacher.java由杨睿达填写 学号：202303013027
 剩余源码由所有人共同编写
